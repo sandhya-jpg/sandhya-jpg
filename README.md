@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandhya-jpg
 - 👀 I’m interested in learning and exploring coding languages
-- 🌱 I’m currently learning full stack
+- 🌱 I’m currently learning frontend developing
 - 💞️ I’m looking to collaborate on python ,dbms
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
